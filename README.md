@@ -1,1 +1,1 @@
-# Glaucoma
+# Glaucoma detection
